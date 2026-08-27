@@ -1,0 +1,80 @@
+{
+    "Result": [
+        {
+            "PermitStatusId": "728CE70B-E1FB-454D-B365-9B6507689BC9",
+            "Name": "Applied",
+            "Description": "Applied"
+        },
+        {
+            "PermitStatusId": "906AFFB1-B7A0-4221-AFAF-F291DDDCC377",
+            "Name": "Approved",
+            "Description": "Approved"
+        },
+        {
+            "PermitStatusId": "BE6D4AA3-2C90-4BA7-9D98-415F61832D4C",
+            "Name": "CO",
+            "Description": "CO"
+        },
+        {
+            "PermitStatusId": "F2FB2F79-D462-498F-ACC5-0E77525CBCFF",
+            "Name": "Denied",
+            "Description": "Denied"
+        },
+        {
+            "PermitStatusId": "324A74B3-771F-4502-8340-4F72A54C81AB",
+            "Name": "Expired",
+            "Description": "Expired"
+        },
+        {
+            "PermitStatusId": "42C989A1-8FB8-4CF6-BE04-53D31E2CB372",
+            "Name": "Final",
+            "Description": "Final"
+        },
+        {
+            "PermitStatusId": "FEFBC24C-315A-4651-8567-593A0F5E07D9",
+            "Name": "HOLD",
+            "Description": "Waiting for payment or other issue "
+        },
+        {
+            "PermitStatusId": "D774EFEA-9E54-464D-A9B0-0E86937BE225",
+            "Name": "Issued",
+            "Description": "Issued"
+        },
+        {
+            "PermitStatusId": "E88B82A2-23D7-43C2-BA83-2232D48E49B5",
+            "Name": "None",
+            "Description": "None"
+        },
+        {
+            "PermitStatusId": "359C2038-9DB0-49A9-8BB7-7AA3B29940AD",
+            "Name": "Stop Work Order",
+            "Description": "Stop Work Order"
+        },
+        {
+            "PermitStatusId": "da25daf4-6792-420b-91d5-1e47e46beaa3",
+            "Name": "Submitted Online",
+            "Description": "Submitted Online"
+        },
+        {
+            "PermitStatusId": "50C24028-E390-47D7-8254-9BBB5A4D51D3",
+            "Name": "Temp CoC",
+            "Description": "Temp CoC"
+        },
+        {
+            "PermitStatusId": "A2007757-A3BF-42F2-B61C-008491B33B77",
+            "Name": "Void",
+            "Description": "Void"
+        },
+        {
+            "PermitStatusId": "E5767DCC-C59D-4BE8-AF4F-9E6F16FF8101",
+            "Name": "Withdrawn",
+            "Description": "Withdrawn"
+        }
+    ],
+    "Success": true,
+    "ErrorMessage": "",
+    "ValidationErrorMessage": "",
+    "ConcurrencyErrorMessage": "",
+    "StatusCode": 200,
+    "BrokenRules": []
+}
