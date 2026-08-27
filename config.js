@@ -1,22 +1,19 @@
-const base = "https://wakecountync-energovpub.tylerhost.net/apps"; // No trailing slash
+const base = "https://townofblufftonsc-energovweb.tylerhost.net/apps"; // No trailing slash
 
 const dateOffset = 1; // 1 = yesterday
 
 // statuses that need to pulled using daily.js
-const requiredStatuses = [
-  "Issued",
-  "In Review",
-  "On Hold",
-  "Pending Approval",
-  "Submitted",
-];
+const requiredStatuses = ["Issued"];
 
 // permit types
 const requiredSecondaryData = [
-  "Residential - New One- and Two-Family Dwelling",
-  "Commercial New Multi Family",
-  "Commercial New Building or Addition",
-  "Residential Addition",
+  "Addition to Apartment Building",
+  "Addition to Commercial Building",
+  "New Accessory Structure - Commercial",
+  "New Commercial Building",
+  "New Multi-Family Apartment Building",
+  "New Single Family Residence",
+  "New Multi-Family Condominium",
 ];
 
 //status that need be updated
