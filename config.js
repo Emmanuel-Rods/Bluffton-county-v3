@@ -3,7 +3,7 @@ const base = "https://townofblufftonsc-energovweb.tylerhost.net/apps"; // No tra
 const dateOffset = 365; // 1 = yesterday
 
 // statuses that need to pulled using daily.js
-const requiredStatuses = ["Issued"];
+const requiredStatuses = ["Issued","CO","Final"];
 
 // permit types
 const requiredSecondaryData = [
